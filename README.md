@@ -1,12 +1,11 @@
 <div align="center">
-
 <!-- HEADER BANNER - Use a custom banner image or this text header -->
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
-║          ◈  RANK S  ·  SOLO DEVELOPER  ·  ◈                 ║
+║          ◈  RANK S  ·  SOLO DEVELOPER  ·  ◈                  ║
 ║                                                               ║
-║         A R I S E  ·  起き上がれ  ·  A R I S E              ║
+║         A R I S E  ·  起き上がれ  ·  A R I S E                 ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
