@@ -156,8 +156,7 @@ PostgreSQL     ███████ 72 / 100  🛡️
 
 ```
                                           ┌─────────────────────────────────────────────────────────────┐
-                                          │  ◉  June 2025 → December 2025                               │
-                                          │                                                             │
+                                          │  ◉  June 2025 → December 2025                               |
                                           │     ROLE     :  Python Full Stack Developer Intern          │
                                           │     GUILD    :  Mashup Stack                                │
                                           │                                                             │
