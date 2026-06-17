@@ -37,7 +37,7 @@
 ```yaml
 ⚔️  Class        :  Python Full Stack Developer
 🛡️  Weapon       :  Django REST Framework + React.js (dual-wield)
-🏛️  Guild        :  B.Sc Computer Science — M.S. University, Tamil Nadu (2022–2025)
+🏛️  Guild        :  B.Sc Computer Science — M.S.University, Tamil Nadu (2022–2025)
 📍  Origin       :  Marthandam, Tamil Nadu · Open to Relocation
 🎌  Lore         :  Turning ideas into interfaces — one commit at a time
 ```
