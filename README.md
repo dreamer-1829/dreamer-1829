@@ -51,18 +51,24 @@
 
 **`[ FRONTEND ]`**
 ```
-React.js       ████████░░  80 / 100  ⚡
-HTML / CSS     █████████░  90 / 100  ⚡
-JavaScript     ███████░░░  75 / 100  ⚡
-Bootstrap      ████████░░  82 / 100  ⚡
+React.js       ████████ 80 / 100  ⚡
+
+HTML / CSS     █████████ 90 / 100  ⚡
+
+JavaScript     ███████ 5 / 100  ⚡
+
+Bootstrap      ████████ 82 / 100  ⚡
 ```
 
 **`[ BACKEND ]`**
 ```
-Python         ████████░░  85 / 100  🛡️
-Django         ████████░░  80 / 100  🛡️
-Django REST    ███████░░░  78 / 100  🛡️
-PostgreSQL     ███████░░░  72 / 100  🛡️
+Python         ███████ 85 / 100  🛡️
+
+Django         ████████ 80 / 100  🛡️
+
+Django REST    ███████ 78 / 100  🛡️
+
+PostgreSQL     ███████ 72 / 100  🛡️
 ```
 
 ---
