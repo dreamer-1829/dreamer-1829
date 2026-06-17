@@ -155,17 +155,17 @@ PostgreSQL     ███████ 72 / 100  🛡️
 </div>
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│  ◉  June 2025 → December 2025                               │
-│                                                             │
-│     ROLE     :  Python Full Stack Developer Intern          │
-│     GUILD    :  Mashup Stack                                │
-│                                                             │
-│  ▸  Designed & developed RESTful APIs with Django + DRF     │
-│  ▸  Integrated APIs with React.js frontend components       │
-│  ▸  Implemented CRUD, authentication & MySQL integration    │
-│  ▸  Followed MVC architecture · Git/GitHub version control  │
-└─────────────────────────────────────────────────────────────┘
+                                          ┌─────────────────────────────────────────────────────────────┐
+                                          │  ◉  June 2025 → December 2025                               │
+                                          │                                                             │
+                                          │     ROLE     :  Python Full Stack Developer Intern          │
+                                          │     GUILD    :  Mashup Stack                                │
+                                          │                                                             │
+                                          │  ▸  Designed & developed RESTful APIs with Django + DRF     │
+                                          │  ▸  Integrated APIs with React.js frontend components       │
+                                          │  ▸  Implemented CRUD, authentication & MySQL integration    │
+                                          │  ▸  Followed MVC architecture · Git/GitHub version control  │
+                                          └─────────────────────────────────────────────────────────────┘
 ```
 
 ---
