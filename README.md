@@ -1,14 +1,8 @@
 <div align="center">
 <!-- HEADER BANNER - Use a custom banner image or this text header -->
-<img align="left" height="327" src="https://giffiles.alphacoders.com/218/218955.gif"  />
+<img align="right" height="327" src="https://giffiles.alphacoders.com/218/218955.gif"  />
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/dreamer-1829/dreamer-1829/snake-output/snake.svg" alt="Snake animation" />
-
-###
 ```
 ╔═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
 ║                                        ◈  RANK S  ·  SOLO DEVELOPER  ·  ◈                                          ║
